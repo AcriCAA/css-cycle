@@ -51,9 +51,9 @@ a, a:visited, a:link, a:active {
 	margin: 0 auto;
 	position: relative;
 }
-/*.cycle-wheel-front{
+.cycle-wheel-front{
 	margin: 100px 0 0 330px;
-}*/
+}
 .cycle-wheel-back{
 	margin: 100px 0 0 0px;
 }
